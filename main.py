@@ -27,14 +27,19 @@ what makes the insult sting. "Aisle four" does the freshness work:
 a numbered aisle is concrete and visual, so the reader pictures a
 supermarket at 3 a.m. instead of a generic haunted house, and the
 single em-dash pivot keeps the whole letter one breath long.
+
+Round 2 — a fresh angle: the round-1 letter quit as a night
+security guard over ghosts with better manners than management;
+this one quits as an office plant waterer, with a different
+complaint (the plants unionised against the waterer) and a
+different payoff (HR sided with the ferns).
 """
 
 import os
 
 LETTER = (
-    "I hereby resign as night security guard \u2014 the ghosts in aisle "
-    "four are better company than management, and they at least say "
-    "goodnight."
+    "I hereby resign as office plant waterer: the ferns filed a "
+    "complaint about my schedule, and HR sided with the plants."
 )
 
 
