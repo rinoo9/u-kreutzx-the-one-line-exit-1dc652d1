@@ -33,13 +33,20 @@ security guard over ghosts with better manners than management;
 this one quits as an office plant waterer, with a different
 complaint (the plants unionised against the waterer) and a
 different payoff (HR sided with the ferns).
+
+Round 3 — a fresh angle again: no guard, no waterer. This one
+quits as the printer’s therapist, the only person who listens to
+the machine. The complaint is the machine’s, not the worker’s —
+it jams under 200-page decks — and the payoff sides with the
+machine: frankly, I understand it. The resignation is an act of
+solidarity with the equipment.
 """
 
 import os
 
 LETTER = (
-    "I hereby resign as office plant waterer: the ferns filed a "
-    "complaint about my schedule, and HR sided with the plants."
+    "I hereby resign as the printer's therapist: it jams every time "
+    "someone prints a 200-page deck, and frankly, I understand it."
 )
 
 
